@@ -6,7 +6,7 @@ Webapp immersive pour une agence fictive de voyage temporel de luxe.
 
 - Next / React
 - CSS responsive
-- Vinext / Sites pour le deploiement
+- Vercel pour le deploiement
 - Assets visuels generes avec IA lors du premier projet TimeTravel Agency
 
 ## Features implementees
@@ -26,8 +26,7 @@ Webapp immersive pour une agence fictive de voyage temporel de luxe.
 
 - Visuels : Codex imagegen
 - Video : montage local a partir des visuels generes
-- Code : assistance Codex
-- Chatbot : logique locale simulee en React/JavaScript, sans API externe. Mistral Small n'a pas ete utilise.
+- Chatbot : logique locale simulee en React/JavaScript
 
 ## Installation locale
 
@@ -40,4 +39,4 @@ npm run dev
 
 Projet pedagogique - Digital & IA.
 
-Noms et prenoms des membres du groupe : a completer avant depot Moodle.
+Membre du groupe : Aymen Tifak.
