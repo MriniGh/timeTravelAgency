@@ -27,7 +27,7 @@ Webapp immersive pour une agence fictive de voyage temporel de luxe.
 - Visuels : Codex imagegen
 - Video : montage local a partir des visuels generes
 - Code : assistance Codex
-- Chatbot : logique locale simulee, sans API externe
+- Chatbot : logique locale simulee en React/JavaScript, sans API externe. Mistral Small n'a pas ete utilise.
 
 ## Installation locale
 
